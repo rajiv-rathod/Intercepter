@@ -129,5 +129,5 @@ This project is licensed under the **Apache 2.0 License**. See [LICENSE](./LICEN
 
 ## 👤 Author  
 
-**Rajiv Rathod**  
-**Shreta Das**
+**Rajiv Rathod.**  
+**Shreta Das.**
